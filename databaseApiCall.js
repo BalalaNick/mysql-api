@@ -1,6 +1,6 @@
 const mysql = require('mysql2');
-const bcrypt = require('bcrypt');
-const salt = 10;
+// const bcrypt = require('bcrypt');
+// const salt = 10;
 
 var connection = mysql.createConnection({
     host: 'zzs.h.filess.io',
